@@ -1,6 +1,6 @@
 ![air_plane](img/OIP.jpeg)
 
-### **Ski Resort (2022) Analysis**
+### **Airline Loyalty Program Analysis**
 
 This project was accomplished using Microsoft PowerBI. 
 
